@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Java project<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with learning web development<br>🌱 I’m currently learning python<br>
+🔭 I’m currently working on Java project<br>🤝 I’m looking for help with learning web development<br>🌱 I’m currently learning python<br>
 
 
 # 💻 Tech Stack:
